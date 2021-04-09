@@ -25,4 +25,11 @@ body{
     margin: 0;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 27px;
+    
+}
+
+img{    
+    width: auto;
+    height: 50px;
+    padding: 10px;
 }
